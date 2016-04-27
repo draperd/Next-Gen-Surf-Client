@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template-type>
+   <title>Next Gen Page</title>
+    <processor mode="view">
+      <id>webscript</id>
+      <uri>/next/gen/page/template</uri>
+   </processor>
+</template-type>

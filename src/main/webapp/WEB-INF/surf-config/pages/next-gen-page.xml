@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<page>
+   <id>ngp</id>
+   <template-instance>next-gen-template-instance</template-instance>
+   <authentication>none</authentication>
+</page>
